@@ -1,5 +1,7 @@
 package com.bham.pij.assignments.calculator;
-// @author Anwin Robin
+/**
+ * @author Anwin Robin
+ */
 
 import java.util.*;
 import java.util.regex.Matcher;

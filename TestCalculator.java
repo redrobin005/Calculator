@@ -1,6 +1,8 @@
 package com.bham.pij.assignments.calculator;
 import java.util.Scanner;
-// @author Anwin Robin
+/**
+ * @author Anwin Robin
+ */
 
 public class TestCalculator {
     public static void main(String[] args) {
